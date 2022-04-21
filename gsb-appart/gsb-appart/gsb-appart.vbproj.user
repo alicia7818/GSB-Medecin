@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="authentification.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="loc_menu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="prop_menu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="admin_menu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="admin_modif.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
